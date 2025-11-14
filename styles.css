@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+th{
+	border:1px solid black; 
+	border-collapse:saperate;
+}
+
+td{
+	border:1px solid black; 
+	border-collapse:saperate
+}
